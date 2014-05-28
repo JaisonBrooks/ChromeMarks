@@ -1,0 +1,26 @@
+{
+    "application_title": {
+        "message": "ChromeBooks",
+        "description": "This is the title of the app"
+    },
+    "application_description": {
+        "message": "This is chrome extension to make using your bookmarks way easier! $#=?> Jaison Brooks",
+        "description": "The description of the application, displayed in the web store."
+    },
+    "application_header": {
+        "message": "ChromeBooks",
+        "description": "Header of popup"
+    },
+    "application_sub_header": {
+        "message": "bookmark manager",
+        "description": "Subtitle of popup"
+    },
+    "application_context_parent": {
+        "message": "ChromeBooks",
+        "description": "parent of context menu"
+    },
+    "application_context_child": {
+        "message": "ChromeBooks this =?> ",
+        "description": "child of context menu"
+    }
+}
