@@ -1,11 +1,18 @@
 body {
-    background: purple;
+    background: #151515;
 }
-
+.layer-of-them-all {
+    width: 770px;
+    height: 550px;
+}
+.title {
+    color: #9933cc;
+}
 button {
     width: 250px;
     height: 50px;
 }
+
 
 /*.navbar-xs { min-height:22px; border-radius:0}*/
 /*.navbar-xs .navbar-brand{ padding: 2px 8px;font-size: 14px;line-height: 14px; }*/
